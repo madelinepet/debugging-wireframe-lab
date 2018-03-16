@@ -130,27 +130,43 @@ h2{
     left: 400px;
     color: grey;
   }
-  #ingredients8 {
+
+  #crossedOff1 {
     position: absolute;
+    text-decoration: line-through;
     top: 1270px;
     left: 400px;
     color: grey;
   }
-  #ingredients9 {
+  #crossedOff2 {
     position: absolute;
+    text-decoration: line-through;
     top: 1300px;
     left: 400px;
     color: grey;
   }
-  #ingredients10 {
+
+  #ingredients8 {
     position: absolute;
     top: 1330px;
     left: 400px;
     color: grey;
   }
+  #ingredients9 {
+    position: absolute;
+    top: 1360px;
+    left: 400px;
+    color: grey;
+  }
+  #ingredients10 {
+    position: absolute;
+    top: 1390px;
+    left: 400px;
+    color: grey;
+  }
   #chopped {
     position: absolute;
-    top: 1340px;
+    top: 1400px;
     left: 400px;
     color: grey;
   }
