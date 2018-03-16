@@ -1,0 +1,140 @@
+
+
+h1 {
+position: absolute;
+left: 175px;
+top: 150px;
+margin: 10px;
+padding: 10px;
+}
+
+h2{
+  position: absolute;
+  left: 185px;
+  margin:5px;
+  padding: 5px;
+  color: lightgray;
+  font-size: 0.8em;
+}
+
+#contentList1{
+  position: absolute;
+  left: 995px;
+  list-style-type: none;
+  margin:0px;
+  padding:10px;
+  color: lightgray;
+  font-size:0.8em;
+}
+#contentList2{
+  position: absolute;
+  left: 1010px;
+  list-style-type: none;
+  margin:0px;
+  padding:10px;
+  color: lightgray;
+  font-size:0.8em;
+}
+
+#chocoPizza {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  padding: 30px;
+}
+
+#recipe1 {
+  position: absolute;
+  top: 850px;
+  left: 15px;
+  color: grey;
+
+}
+#recipe2 {
+  position: absolute;
+  top: 950px;
+  left: 15px;
+  color: grey;
+}
+
+#recipe3{
+  position: absolute;
+  top: 1050px;
+  left: 15px;
+  color: grey;
+}
+
+#container {
+  position: absolute;
+  top: 1200px;
+  left: 15px;
+  }
+
+  #ingredients1 {
+    position: absolute;
+    top: 1240px;
+    left: 70px;
+    color: grey;
+  }
+
+  #ingredients2 {
+    position: absolute;
+    top: 1270px;
+    left: 70px;
+    color: grey;
+  }
+  #ingredients3 {
+    position: absolute;
+    top: 1300px;
+    left: 70px;
+    color: grey;
+  }
+  #ingredients4 {
+    position: absolute;
+    top: 1330px;
+    left: 70px;
+    color: grey;
+  }
+  #ingredients5 {
+    position: absolute;
+    top: 1360px;
+    left: 70px;
+    color: grey;
+  }
+  #ingredients6 {
+    position: absolute;
+    top: 1390px;
+    left: 70px;
+    color: grey;
+  }
+  #ingredients7 {
+    position: absolute;
+    top: 1240px;
+    left: 400px;
+    color: grey;
+  }
+  #ingredients8 {
+    position: absolute;
+    top: 1270px;
+    left: 400px;
+    color: grey;
+  }
+  #ingredients9 {
+    position: absolute;
+    top: 1300px;
+    left: 400px;
+    color: grey;
+  }
+  #ingredients10 {
+    position: absolute;
+    top: 1330px;
+    left: 400px;
+    color: grey;
+  }
+  #chopped {
+    position: absolute;
+    top: 1340px;
+    left: 400px;
+    color: grey;
+  }
