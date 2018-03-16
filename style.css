@@ -1,4 +1,20 @@
+#one, #two, #three, #four, #five, #six, #seven, #eight  {
+    float: right;
+} 
 
+
+nav {
+    border: white
+}
+
+.myList, ul, li {
+    list-style-type: none
+}
+
+ul {
+    float: left,
+
+}
 
 h1 {
 position: absolute;
