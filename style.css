@@ -2,11 +2,6 @@
     float: right;
 } 
 
-.card, .container {
-
-    float: left;
-}
-
 
 nav {
     border: white
@@ -18,7 +13,6 @@ nav {
 
 ul {
     float: left,
-    list-style type: none
-}
 
+}
 
