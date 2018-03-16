@@ -52,9 +52,8 @@ h2{
 }
 
 #chocoPizza {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  position: absolute;
+  left: 300px;
   width: 70%;
   padding: 30px;
 }
@@ -168,4 +167,15 @@ h2{
     top: 1400px;
     left: 400px;
     color: grey;
+  }
+
+  footer {
+    position: absolute;
+    top: 1800px;
+
+  }
+
+  #section {
+    position: absolute;
+    top: 1700px;
   }
